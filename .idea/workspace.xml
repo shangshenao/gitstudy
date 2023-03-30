@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="c78c85de-029d-444a-af30-b93ab52888bd" name="Changes" comment="">
+=======
+    <list default="true" id="cc054406-f044-40ae-9267-f3e54d567310" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> b20c9d60eec0136ddd0dde30f0dc1ae34453044f
       <change beforePath="$PROJECT_DIR$/冲突.text" beforeDir="false" afterPath="$PROJECT_DIR$/冲突.text" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +20,11 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectId" id="2Nj5wsprveVCWMxn74nwxWnAMlc" />
+=======
+  <component name="ProjectId" id="2Nj5FtzBMU4w5g0wEHPFCihrmdZ" />
+>>>>>>> b20c9d60eec0136ddd0dde30f0dc1ae34453044f
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -24,19 +33,32 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../gittest2/gitstudy" />
+>>>>>>> b20c9d60eec0136ddd0dde30f0dc1ae34453044f
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="c78c85de-029d-444a-af30-b93ab52888bd" name="Changes" comment="" />
       <created>1680164892787</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680164892787</updated>
       <workItem from="1680164894380" duration="1295000" />
+=======
+      <changelist id="cc054406-f044-40ae-9267-f3e54d567310" name="Changes" comment="" />
+      <created>1680164550640</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680164550640</updated>
+      <workItem from="1680164552196" duration="1524000" />
+>>>>>>> b20c9d60eec0136ddd0dde30f0dc1ae34453044f
     </task>
     <servers />
   </component>
